@@ -7,6 +7,7 @@ Para a resolução do desafio, optou-se por utilizar python juntamente com o sel
 ## Sobre o tempo
 Para que fosse possível visualizar os conteúdos, deixei um default time de sleep de 0,4s. Esse tempo pode ser modificado no arquivo `page_objects.py`.
 Deve-se mofificar o conteúdo da linha:
+
     15. default_time=0.4
 
 

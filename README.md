@@ -4,6 +4,12 @@
 ## Sobre
 Para a resolução do desafio, optou-se por utilizar python juntamente com o selenium. Utilizei nesse desafio uma máquina linux com a seguinte versão de python: 3.8.10 (default, Jun 22 2022, 20:18:18) 
 
+## Sobre o tempo
+Para que fosse possível visualizar os conteúdos, deixei um default time de sleep de 0,4s. Esse tempo pode ser modificado no arquivo `page_objects.py`.
+Deve-se mofificar o conteúdo da linha:
+    15. default_time=0.4
+
+
 
 ## Instruções:
 Para utilizar o programa utilizaremos o arquivo `salcedemo.py`.
